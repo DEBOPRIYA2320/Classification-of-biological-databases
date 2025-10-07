@@ -167,8 +167,6 @@ The analysis covers:
 `Functional Annotation` `Sequence Data` `Systems Biology`  
 
 ---
-📄 Project Report
-📘 Variant Analysis Project.pdf  (GITHUB).pdf
 
 ## 👩‍💻 Author
 
@@ -177,7 +175,8 @@ Bioinformatics  | Genomics & Proteomics Enthusiast
 🔗 GitHub Profile (https://github.com/DEBOPRIYA2320)
 
 🔗 LinkedIn (www.linkedin.com/in/debopriya2320)
-
+📫 **Contact**  
+- Email: debopriya2320@example.com
 
 ## 📜 License
 
