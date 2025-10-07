@@ -175,7 +175,7 @@ Bioinformatics  | Genomics & Proteomics Enthusiast
 🔗 GitHub Profile (https://github.com/DEBOPRIYA2320)
 
 🔗 LinkedIn (www.linkedin.com/in/debopriya2320)
-📫 **Contact**  
+ 
 - Email: debopriya2320@example.com
 
 ## 📜 License
