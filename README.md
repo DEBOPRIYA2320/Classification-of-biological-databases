@@ -167,7 +167,8 @@ The analysis covers:
 `Functional Annotation` `Sequence Data` `Systems Biology`  
 
 ---
-
+## 📄 Project Report
+You can view the complete project report here: https://github.com/DEBOPRIYA2320/Classification-of-biological-databases/blob/742835e58a3cd665709b75f23b91c7eb7311ad8e/Classification%20of%20Biological%20db(DEBOPRIYA).pdf
 ## 👩‍💻 Author
 
 **Debopriya**  
